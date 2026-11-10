@@ -1,3 +1,23 @@
-D 'rcm': Regression control method (RCM) Use rcm With STATA 19
-F rcm.ado
-F rcm.sthlp
+D 'xhdfe': Linear regression with multiple fixed effects via a C++ backend Use xhdfe With STATA 19
+F xfepout.ado
+F xfepout.plugin
+F xfepout.sthlp
+F xhdfe.ado
+F xhdfe.plugin
+F xhdfe.sthlp
+F xhdfe_estat.ado
+F xhdfe_p.ado
+F xhdfeakm.ado
+F xhdfeakm.sthlp
+F xhdfeconnected.ado
+F xhdfeconnected.sthlp
+F xhdfegelbach.ado
+F xhdfegelbach.sthlp
+F xhdfegelbachbootstrap.ado
+F xhdfegelbachbootstrap.sthlp
+F xhdfegelbachcoefplot.ado
+F xhdfegelbachcoefplot.sthlp
+F xhdfegelbachetable.ado
+F xhdfegelbachetable.sthlp
+F xhdfegpu.ado
+F xhdfegpu.sthlp
