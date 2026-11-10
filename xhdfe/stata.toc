@@ -2,4 +2,4 @@
 1
 2
 3
-p rcm Regression control method (RCM) Use rcm With STATA 19
+p xhdfe Linear regression with multiple fixed effects via a C++ backend Use xhdfe With STATA 19
